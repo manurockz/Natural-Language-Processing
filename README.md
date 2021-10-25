@@ -3,7 +3,7 @@ contains all the works that deals with natural language processing.
 
 # Assignment 1
 
-# PARAGRAPH: <br>
+# PARAGRAPH: <br/>
 Are  you  fascinated  by  the  amount  of  text  data  available  on  the  internet?  Are  you 
 looking  for  ways  to  work  with  this  text  data  but  aren’t  sure  where  to  begin? 
 Machines, after all, recognize numbers, not the letters of our language. And that can 
